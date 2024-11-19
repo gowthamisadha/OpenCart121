@@ -1,0 +1,8 @@
+[INFO ] 2024-11-16 14:18:50.861 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-11-16 14:18:51.457 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-11-16 14:18:52.292 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-11-16 14:18:52.303 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-11-16 14:18:54.604 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-11-16 14:18:54.664 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-11-16 14:19:00.411 [main] TC002_LoginTest - *** Starting TC002_LoginTest *** 
+[INFO ] 2024-11-16 14:19:03.282 [main] TC002_LoginTest - *** Finished TC002_LoginTest *** 

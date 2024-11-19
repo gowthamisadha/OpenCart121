@@ -1,0 +1,56 @@
+[INFO ] 2024-10-09 15:29:57.445 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 15:29:58.180 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 15:30:01.667 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 15:30:01.677 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 15:30:05.167 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 15:30:05.230 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 16:11:35.951 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 16:11:36.775 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 16:11:37.445 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 16:11:37.450 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 16:11:39.202 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 16:11:39.313 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 17:30:52.730 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 17:30:53.495 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 17:30:54.179 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 17:30:54.188 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 17:30:55.945 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 17:30:56.011 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 17:31:05.082 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 17:31:05.449 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 17:31:06.003 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 17:31:06.006 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 17:31:07.900 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 17:31:07.948 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 17:31:19.940 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 17:31:20.113 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 17:31:20.614 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 17:31:20.616 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 17:31:22.590 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 17:31:22.652 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 17:33:14.213 [TestNG-tests-3] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 17:33:14.421 [TestNG-tests-1] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 17:33:14.656 [TestNG-tests-3] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 17:33:14.804 [TestNG-tests-1] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 17:33:15.672 [TestNG-tests-3] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 17:33:15.685 [TestNG-tests-3] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 17:33:16.040 [TestNG-tests-1] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 17:33:16.041 [TestNG-tests-1] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 17:33:19.619 [TestNG-tests-1] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 17:33:19.621 [TestNG-tests-3] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 17:33:19.745 [TestNG-tests-1] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 17:33:19.872 [TestNG-tests-3] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 17:33:26.374 [TestNG-tests-2] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 17:33:26.793 [TestNG-tests-2] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 17:33:27.522 [TestNG-tests-2] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 17:33:27.523 [TestNG-tests-2] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 17:33:29.011 [TestNG-tests-2] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 17:33:29.054 [TestNG-tests-2] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 18:09:23.173 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-10-09 18:09:23.834 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-10-09 18:09:24.382 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-10-09 18:09:24.390 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-10-09 18:09:26.430 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-10-09 18:09:26.494 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-10-09 19:26:16.324 [main] TC002_LoginTest - *** Starting TC002_LoginTest *** 
+[INFO ] 2024-10-09 19:26:19.174 [main] TC002_LoginTest - *** Finished TC002_LoginTest *** 

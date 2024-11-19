@@ -1,0 +1,17 @@
+[INFO ] 2024-11-12 17:56:26.699 [main] TC002_LoginTest - *** Starting TC002_LoginTest *** 
+[INFO ] 2024-11-12 17:56:29.046 [main] TC002_LoginTest - *** Finished TC002_LoginTest *** 
+[INFO ] 2024-11-12 18:02:27.524 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-11-12 18:02:27.735 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-11-12 18:02:28.507 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-11-12 18:02:28.522 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-11-12 18:02:30.631 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-11-12 18:02:30.726 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-11-12 18:02:35.757 [main] TC002_LoginTest - *** Starting TC002_LoginTest *** 
+[INFO ] 2024-11-12 18:02:37.908 [main] TC002_LoginTest - *** Finished TC002_LoginTest *** 
+[INFO ] 2024-11-12 18:16:03.443 [main] TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-11-12 18:16:03.744 [main] TC001_AccountRegistrationTest - Clicked on My accountlink 
+[INFO ] 2024-11-12 18:16:04.541 [main] TC001_AccountRegistrationTest - Clicked on Registration Link
+[INFO ] 2024-11-12 18:16:04.548 [main] TC001_AccountRegistrationTest - Providing Customer details.....
+[INFO ] 2024-11-12 18:16:06.499 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2024-11-12 18:16:06.568 [main] TC001_AccountRegistrationTest - finished
+[INFO ] 2024-11-12 18:16:12.149 [main] TC002_LoginTest - *** Starting TC002_LoginTest *** 
